@@ -2,7 +2,7 @@
   "name": "@neolution-ch/action-check-licenses",
   "version": "0.6.0",
   "description": "This action checks the repo for the npm and nuget licenses and adds a comment to the pull request",
-  "homepage": "https://github.com/neolution-ch/action-check-licenses",
+  "homepage": "https://github.com/collana-solutions/action-check-licenses",
   "license": "MIT",
   "author": "Neolution",
   "main": "dist/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neolution-ch/action-check-licenses"
+    "url": "git+https://github.com/collana-solutions/action-check-licenses"
   },
   "dependencies": {
     "@actions/core": "^1.10.1",
