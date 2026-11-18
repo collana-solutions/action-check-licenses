@@ -11,7 +11,7 @@ See [action.yml](action.yml)
 
 ```yaml
 steps:
-  - uses: neolution-ch/action-check-licenses@v0
+  - uses: collana-solutions/action-check-licenses@v0
     with:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       continueOnBlockedFound: true
